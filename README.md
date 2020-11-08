@@ -1,3 +1,28 @@
+JAMMMING
+Reference
+git remote add origin https://github.com/rickmansfield/10-12-1_Project_Jammming.git
+git branch -M main
+git push -u origin main
+
+From VS Code terminal 
+npm install gh-pages --save-dev
+
+In VS Code Editor in source project files 
+in package-json at the top add this line of code
+"homepage": "http://rickmansfield.github.io/10-12-1_Project_Jammming",
+in package-json at the bottom of the file verify the following lines of code were added during bove steps
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+Add NEW SCRIPTs in package.json
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+
+INITIALIZE
+in VS Code source file 
+git init
+git remote add origin https://github.com/rickmansfield/10-12-1_Project_Jammming.git
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
