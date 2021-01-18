@@ -4,8 +4,8 @@ const clientID = "70aa26180af6424caf987510e47c6173";
 //at step 97 use the following with YOUR selected domain name I used MINE.
 //follow the video NOT the written instructions for deployment. I used my VSCode Terminal not Node or powershell
 //also if needed you may have to run 'powershell' as administrator and change restrictions. 
-const redirectURI = 'http://damaged-man.surge.sh';
-
+//const redirectURI = 'http://damaged-man.surge.sh';
+const redirectURI = 'https://rickmansfield.github.io/10-12-1_Project_Jammming/';
 let accessToken;
 
 const Spotify = {
