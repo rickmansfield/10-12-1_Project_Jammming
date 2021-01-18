@@ -1,4 +1,4 @@
-Just a test
+Removed theme: jekyll-theme-cayman
 JAMMMING
 Reference
 git remote add origin https://github.com/rickmansfield/10-12-1_Project_Jammming.git
