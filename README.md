@@ -1,4 +1,4 @@
-Reestablished Git repository to remove themes. 
+Reestablished Git repository to remove themesx2 
 JAMMMING
 Reference
 git remote add origin https://github.com/rickmansfield/10-12-1_Project_Jammming.git
