@@ -1,8 +1,8 @@
 # JAMMMING
+
 Javascript/React API with Spotify
 
 ![Favicon](public/favicon.ico)
-
 
 ## Sections
 
@@ -75,6 +75,7 @@ __Jammming__ is a __REACT__ web applicaiton. Knowledge of react components, pass
   - send a search request to the Spotify API
   - Save a user's playlist to their Spotify Account.
 [Sections](#sections)
+
 ### Implement Spotify Search Request
 
 - created a method in Spotify.js that accepts a search term input, passes the search term value to a Spotify request, then returns the responses as a list of tracks in JSON format.
@@ -83,11 +84,12 @@ __Jammming__ is a __REACT__ web applicaiton. Knowledge of react components, pass
 - Used the [Spofity Web API](https://developer.spotify.com/web-api/endpoint-reference/) Endpoint Reference to help format your request.
   [Sections](#sections)
 
-### Save a User's Playlist 
+### Save a User's Playlist
 
 - Created a mehtod called savePlayList that writes the user's costom playlist in Jammming to their Spotify Account.[Sections](#sections)
 
 #### Deployment Notes
+
 - Site Deployed using GitHub Pages
   - [code](https://github.com/rickmansfield/10-12-1_Project_Jammming)
   - [Live Site](https://rickmansfield.github.io/10-12-1_Project_Jammming/)
