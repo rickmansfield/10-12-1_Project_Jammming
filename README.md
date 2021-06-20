@@ -88,6 +88,11 @@ __Jammming__ is a __REACT__ web applicaiton. Knowledge of react components, pass
 
 - Created a mehtod called savePlayList that writes the user's costom playlist in Jammming to their Spotify Account.[Sections](#sections)
 
+<style>
+p {
+    color:red
+}
+</style>
 #### Deployment Notes
 
 - Site Deployed using GitHub Pages
