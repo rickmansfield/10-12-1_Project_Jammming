@@ -23,6 +23,7 @@ Javascript/React API with Spotify
     - [Implement Spotify Search Request](#implement-spotify-search-request)
     - [Save a User's Playlist](#save-a-users-playlist)
       - [Deployment Notes](#deployment-notes)
+      - [MarkDownNotes](#markdownnotes)
 
 ## Overview
 
@@ -103,3 +104,6 @@ p {
     color:red
 }
 </style>
+
+### MarkDownNotes
+[Mark Down Notes You Tube](https://www.youtube.com/watch?v=pTCROLZLhDM&t=635s)
